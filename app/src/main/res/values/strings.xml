@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <string name="Contacto">Contacto</string>
+    <string name="Correo">Correo</string>
+    <string name="Mensaje">Mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragContacto">Hola soy el fragmento de contactos</string>
+    <string name="fragCorreo">Hola soy el fragmento de correos</string>
+    <string name="fragMensajes">Hola soy el fragmento de mensajes</string>
+</resources>
